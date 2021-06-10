@@ -1,4 +1,4 @@
 <?php
-$con=mysqli_connect("3.135.230.91","hienamnhac","","hien@123");
+$con=mysqli_connect("18.223.136.19","hienamnhac","","hien123");
 mysqli_set_charset($con,'UTF8')
 ?>
